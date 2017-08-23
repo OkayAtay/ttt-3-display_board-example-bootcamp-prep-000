@@ -1,6 +1,6 @@
-def display_board do 
-|   |   
+def display_board do
+  |   |
 -----------
-|   |   
+  |   |
 -----------
-|   |  
+  |   |
